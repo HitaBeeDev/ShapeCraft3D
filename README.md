@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## ShapeCraft3D
+ShapeCraft3D is a versatile design tool that empowers users to create and manipulate three-dimensional shapes with ease. Whether you're a professional designer, a hobbyist, or just curious about 3D design, ShapeCraft3D provides the tools you need to bring your ideas to life.
+This repository is built with Next.js, Tailwind CSS, and TypeScript.
 
 ## Getting Started
 
